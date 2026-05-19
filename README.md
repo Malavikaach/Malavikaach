@@ -9,86 +9,26 @@ I am an MCA student with a strong foundation in **programming, database manageme
 ## 👩‍🎓 Education
 
 🎓 **Master of Computer Applications (MCA)**  
-**Adi Shankara Institute of Engineering and Technology**  
-2024 – Present
+**Adi Shankara Institute of Engineering and Technology**  (2024 – 2026)
 
 🎓 **Bachelor of Computer Applications (BCA)**  
-**Chinmaya Arts and Science College**  
-2021 – 2024
+**Chinmaya Arts and Science College**  (2021 – 2024)
 
 ---
 
 ## 💻 Technical Skills
 
 ### Programming Languages
-- Python
-- SQL
-- HTML
-- JavaScript (Basics)
+- Python, SQL, HTML, JavaScript (Basics)
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- SQL Databases
+- PostgreSQL, MongoDB, SQL Databases
 
 ### Frameworks & Tools
-- Django
-- React
-- Git & GitHub
-- pgAdmin
-- PyCharm
+- Django, React, Git & GitHub, pgAdmin, PyCharm
 
 ### Areas of Interest
-- Data Analytics
-- Web Development
-- Database Management
-- Machine Learning
-- Cloud Computing
-
----
-
-## 🚀 Projects
-
-### 🧠 Mental Health Analytics: Explainable and Temporal Depression Detection from Social Media Data
-**Duration:** 2026 – Present
-
-- Developed a system to analyze social media data for depression detection.
-- Focused on explainable AI and temporal analysis techniques.
-- Aimed to identify mental health patterns through data analytics and machine learning.
-
-**Tech Stack:**
-Python | Machine Learning | Data Analytics
-
----
-
-### 🎓 Student Admission Management System
-**Duration:** 2024 – 2025
-
-- Developed a web-based admission platform.
-- Features:
-  - Student registration
-  - Application submission
-  - Document upload
-  - Admission tracking
-  - Chatbot integration for support
-
-**Tech Stack:**
-React | MongoDB
-
----
-
-### ⚽ Turf Management System
-**Duration:** 2024 – 2025
-
-- Built an online turf booking platform.
-- Features:
-  - Real-time slot booking
-  - Pricing management
-  - Online payments
-- Designed for schools, clubs, and individuals.
-
-**Tech Stack:**
-Django | Python | SQL | HTML | PyCharm
+- Data Analytics, Web Development, Database Management, Machine Learning, Cloud Computing
 
 ---
 
@@ -120,11 +60,9 @@ To begin my career in the IT industry, improve technical skills continuously, an
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavikaach&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-*(Replace YOUR_USERNAME with your GitHub username)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavikaach&layout=compact)
 
 ---
 
@@ -132,9 +70,9 @@ To begin my career in the IT industry, improve technical skills continuously, an
 
 📧 Email: your-email@example.com
 
-💼 LinkedIn: Add your LinkedIn profile
+💼 LinkedIn: (https://www.linkedin.com/in/malavika-c-h/)
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/Malavikaach
 
 ---
 
