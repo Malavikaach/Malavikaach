@@ -6,6 +6,7 @@ I am an MCA student with a strong foundation in **programming, database manageme
 ## 👩‍🎓 Education
 🎓 **Master of Computer Applications (MCA)**  
 **Adi Shankara Institute of Engineering and Technology**  (2024 – 2026)
+
 🎓 **Bachelor of Computer Applications (BCA)**  
 **Chinmaya Arts and Science College**  (2021 – 2024)
 
