@@ -40,18 +40,10 @@ I am an MCA student with a strong foundation in **programming, database manageme
 
 To begin my career in the IT industry, improve technical skills continuously, and contribute to impactful projects in software development and data analytics.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavikaach&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavikaach&layout=compact)
-
 ## 📫 Connect With Me
 
 📧 Email: malavikaranjith2@gmail.com
 
 💼 LinkedIn: (https://www.linkedin.com/in/malavika-c-h/)
-
----
 
 ⭐ "Always learning, always building."
